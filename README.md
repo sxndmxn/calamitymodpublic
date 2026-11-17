@@ -1,4 +1,8 @@
 # Calamity Mod
+
+This repository is a personal copy of [CalamityTeam/CalamityModPublic](https://github.com/CalamityTeam/CalamityModPublic), maintained as a GitHub fork.
+The documentation below describes the original project.
+
 [![Discord](https://img.shields.io/discord/225030931008847874)](https://discord.gg/calamity)
 - [Official site](https://calamitymod.com/)
 - [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2824688072)
